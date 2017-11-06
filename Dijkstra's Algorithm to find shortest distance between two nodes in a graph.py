@@ -126,20 +126,3 @@ Dijkstra('A','F')
   
 
 
-#AddNode('1','6',7)
-#AddNode('3','6',3)
-#AddNode('3','1',4) 
-#AddNode('2','1',3)
-#AddNode('4','1',7)
-#AddNode('7','1',8)
-#AddNode('3','2',4)
-#AddNode('4','2',1)
-#AddNode('5','2',8)
-#AddNode('7','2',3)
-#AddNode('4','3',6)
-#AddNode('5','4',2)
-#AddNode('7','5',4)
-#AddNode('8','5',6)
-#AddNode('7','4',5)
-#AddNode('8','7',9)
-
